@@ -828,6 +828,12 @@
     "path": "price/005"
   },
   {
+    "type": "price",
+    "date": "2026-04-15",
+    "number": "006",
+    "path": "price/006"
+  },
+  {
     "type": "rpc",
     "date": "2026-02-09",
     "number": "020",
