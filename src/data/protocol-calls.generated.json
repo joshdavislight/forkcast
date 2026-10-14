@@ -1008,6 +1008,12 @@
     "path": "etm/010"
   },
   {
+    "type": "etm",
+    "date": "2026-10-14",
+    "number": "011",
+    "path": "etm/011"
+  },
+  {
     "type": "focil",
     "date": "2025-09-09",
     "number": "019",
@@ -1468,5 +1474,11 @@
     "date": "2026-09-09",
     "number": "008",
     "path": "zkevm/008"
+  },
+  {
+    "type": "zkevm",
+    "date": "2026-10-14",
+    "number": "009",
+    "path": "zkevm/009"
   }
 ]
